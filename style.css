@@ -5,3 +5,46 @@
 }
 
 /* write all your rules below */
+.heading{
+    display:flex;
+    background-color:pink;
+   
+    
+}
+
+.box1{
+    display:flex;
+    background-color:aqua;
+    padding-top:100px;
+    padding-bottom:90px;
+ 
+    
+}
+
+.box2{
+    display:flex;
+    background-color:yellow;
+    padding-bottom:100px;
+    height:40px;
+    width:600px
+}
+
+.text1{
+    display:flex;
+    color:blue;
+}
+
+.text2{
+    display:flex;
+    color:green;
+}
+
+.text3{
+    display:flex;
+    color:purple;
+}
+
+.text4{
+    display:flex;
+    color:purple;
+}
